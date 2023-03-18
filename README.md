@@ -1,0 +1,1 @@
+# lab_2_ImageArea__polymorphism-_and_-bstraction
